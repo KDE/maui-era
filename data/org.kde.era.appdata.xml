@@ -5,20 +5,29 @@
   <project_license>LGPL-3.0</project_license>
   <name>Era</name>
   <name xml:lang="ca">Era</name>
+  <name xml:lang="es">Era</name>
+  <name xml:lang="gl">Era</name>
   <name xml:lang="nl">Era</name>
+  <name xml:lang="sl">Era</name>
   <name xml:lang="tr">Era</name>
   <name xml:lang="uk">Ера</name>
   <name xml:lang="x-test">xxEraxx</name>
   <summary>Clock app</summary>
   <summary xml:lang="ca">Aplicació de rellotge</summary>
+  <summary xml:lang="es">Aplicación de reloj</summary>
+  <summary xml:lang="gl">Aplicación de reloxo.</summary>
   <summary xml:lang="nl">Klok-toepassing</summary>
+  <summary xml:lang="sl">Aplikacija ure</summary>
   <summary xml:lang="tr">Saat Uygulaması</summary>
   <summary xml:lang="uk">Програма-годинник</summary>
   <summary xml:lang="x-test">xxClock appxx</summary>
   <description>
     <p>Clocks, timer and alarms.</p>
     <p xml:lang="ca">Rellotges, temporitzadors i alarmes.</p>
+    <p xml:lang="es">Relojes, temporizador y alarmas</p>
+    <p xml:lang="gl">Reloxos, cronómetro e alarmas.</p>
     <p xml:lang="nl">Klokken, timer en alarmen.</p>
+    <p xml:lang="sl">Ure, časomerilniki in alarmi.</p>
     <p xml:lang="tr">Saat, sayaç ve alarmlar.</p>
     <p xml:lang="uk">Годинник, таймер і нагадування.</p>
     <p xml:lang="x-test">xxClocks, timer and alarms.xx</p>
@@ -30,7 +39,10 @@
     <screenshot type="default">
       <caption>Era - mobile version</caption>
       <caption xml:lang="ca">Era - Versió mòbil</caption>
+      <caption xml:lang="es">Era - versión móvil</caption>
+      <caption xml:lang="gl">Era, versión móbil.</caption>
       <caption xml:lang="nl">Era - mobiele versie</caption>
+      <caption xml:lang="sl">Era - mobilna različica</caption>
       <caption xml:lang="tr">Era — Taşınabilir sürüm</caption>
       <caption xml:lang="uk">Ера — мобільна версія</caption>
       <caption xml:lang="x-test">xxEra - mobile versionxx</caption>

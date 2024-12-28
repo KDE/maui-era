@@ -1,16 +1,18 @@
+# Spanish translations for era.po package.
 # Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the maui-era package.
+# Automatically generated, 2024.
 #
-# SPDX-FileCopyrightText: 2024 Freek de Kruijf <freekdekruijf@kde.nl>
+# SPDX-FileCopyrightText: 2024 Eloy Cuadra <ecuadra@eloihr.net>
 msgid ""
 msgstr ""
-"Project-Id-Version: maui-era\n"
+"Project-Id-Version: era\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-26 01:59+0000\n"
-"PO-Revision-Date: 2024-12-26 10:26+0100\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: \n"
-"Language: nl\n"
+"PO-Revision-Date: 2024-12-27 00:42+0100\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,39 +27,39 @@ msgstr "Camilo Higuita"
 #: src/code/main.cpp:40
 #, kde-format
 msgid "Developer"
-msgstr "Ontwikkelaar"
+msgstr "Desarrollador"
 
 #: src/controls/AnalogClock.qml:21 src/controls/DigitalClock.qml:20
 #, kde-format
 msgid "Local"
-msgstr "Lokaal"
+msgstr "Local"
 
 #: src/controls/main.qml:40
 #, kde-format
 msgid "Settings"
-msgstr "Instellingen"
+msgstr "Preferencias"
 
 #: src/controls/main.qml:47
 #, kde-format
 msgid "About"
-msgstr "Info over"
+msgstr "Acerca de"
 
 #: src/controls/main.qml:56
 #, kde-format
 msgid "Clock"
-msgstr "Klok"
+msgstr "Reloj"
 
 #: src/controls/main.qml:113
 #, kde-format
 msgid "Stopwatch"
-msgstr "Stopwatch"
+msgstr "Cronómetro"
 
 #: src/controls/main.qml:129
 #, kde-format
 msgid "Timer"
-msgstr "Timer"
+msgstr "Temporizador"
 
 #: src/controls/main.qml:142
 #, kde-format
 msgid "Alarm"
-msgstr "Alarm"
+msgstr "Alarma"

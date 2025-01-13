@@ -13,6 +13,7 @@
   <name xml:lang="it">Era</name>
   <name xml:lang="nl">Era</name>
   <name xml:lang="sl">Era</name>
+  <name xml:lang="sv">Era</name>
   <name xml:lang="tr">Era</name>
   <name xml:lang="uk">Ера</name>
   <name xml:lang="x-test">xxEraxx</name>
@@ -26,6 +27,7 @@
   <summary xml:lang="it">Applicazione orologio</summary>
   <summary xml:lang="nl">Klok-toepassing</summary>
   <summary xml:lang="sl">Aplikacija ure</summary>
+  <summary xml:lang="sv">Klockprogram</summary>
   <summary xml:lang="tr">Saat Uygulaması</summary>
   <summary xml:lang="uk">Програма-годинник</summary>
   <summary xml:lang="x-test">xxClock appxx</summary>
@@ -40,6 +42,7 @@
     <p xml:lang="it">Orologi, timer e allarmi.</p>
     <p xml:lang="nl">Klokken, timer en alarmen.</p>
     <p xml:lang="sl">Ure, časomerilniki in alarmi.</p>
+    <p xml:lang="sv">Klockor, tidtagning och alarm.</p>
     <p xml:lang="tr">Saat, sayaç ve alarmlar.</p>
     <p xml:lang="uk">Годинник, таймер і нагадування.</p>
     <p xml:lang="x-test">xxClocks, timer and alarms.xx</p>
@@ -59,6 +62,7 @@
       <caption xml:lang="it">Era - versione mobile</caption>
       <caption xml:lang="nl">Era - mobiele versie</caption>
       <caption xml:lang="sl">Era - mobilna različica</caption>
+      <caption xml:lang="sv">Era - mobilversion</caption>
       <caption xml:lang="tr">Era — Taşınabilir sürüm</caption>
       <caption xml:lang="uk">Ера — мобільна версія</caption>
       <caption xml:lang="x-test">xxEra - mobile versionxx</caption>

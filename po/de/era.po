@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: maui-era\n"
+"Project-Id-Version: era\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-26 01:59+0000\n"
 "PO-Revision-Date: 2024-12-27 14:00+0100\n"

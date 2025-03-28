@@ -20,6 +20,7 @@
   <name xml:lang="tr">Era</name>
   <name xml:lang="uk">Ера</name>
   <name xml:lang="x-test">xxEraxx</name>
+  <name xml:lang="zh-TW">Era</name>
   <summary>Clock app</summary>
   <summary xml:lang="ca">Aplicació de rellotge</summary>
   <summary xml:lang="ca-valencia">Aplicació de rellotge</summary>
@@ -37,6 +38,7 @@
   <summary xml:lang="tr">Saat Uygulaması</summary>
   <summary xml:lang="uk">Програма-годинник</summary>
   <summary xml:lang="x-test">xxClock appxx</summary>
+  <summary xml:lang="zh-TW">時鐘應用程式</summary>
   <description>
     <p>Clocks, timer and alarms.</p>
     <p xml:lang="ca">Rellotges, temporitzadors i alarmes.</p>
@@ -55,6 +57,7 @@
     <p xml:lang="tr">Saat, sayaç ve alarmlar.</p>
     <p xml:lang="uk">Годинник, таймер і нагадування.</p>
     <p xml:lang="x-test">xxClocks, timer and alarms.xx</p>
+    <p xml:lang="zh-TW">時鐘、計時器和鬧鐘。</p>
   </description>
   <url type="homepage">https://mauikit.org/</url>
   <url type="bugtracker">https://invent.kde.org/maui/era/-/issues</url>
@@ -78,6 +81,7 @@
       <caption xml:lang="tr">Era — Taşınabilir sürüm</caption>
       <caption xml:lang="uk">Ера — мобільна версія</caption>
       <caption xml:lang="x-test">xxEra - mobile versionxx</caption>
+      <caption xml:lang="zh-TW">Era - 行動版</caption>
       <image type="source" width="2899" height="2326">
         https://mauikit.org/wp-content/uploads/2022/11/era.jpg
       </image>

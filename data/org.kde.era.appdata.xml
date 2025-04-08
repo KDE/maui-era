@@ -13,6 +13,7 @@
   <name xml:lang="fr">Ère</name>
   <name xml:lang="gl">Era</name>
   <name xml:lang="it">Era</name>
+  <name xml:lang="ko">Era</name>
   <name xml:lang="nl">Era</name>
   <name xml:lang="pl">Era</name>
   <name xml:lang="sl">Era</name>
@@ -31,6 +32,7 @@
   <summary xml:lang="fr">Application d'horloge</summary>
   <summary xml:lang="gl">Aplicación de reloxo</summary>
   <summary xml:lang="it">Applicazione orologio</summary>
+  <summary xml:lang="ko">시계 앱</summary>
   <summary xml:lang="nl">Klok-toepassing</summary>
   <summary xml:lang="pl">Aplikacja zegara</summary>
   <summary xml:lang="sl">Aplikacija ure</summary>
@@ -50,6 +52,7 @@
     <p xml:lang="fr">Horloges, minuterie et alarmes.</p>
     <p xml:lang="gl">Reloxos, cronómetro e alarmas.</p>
     <p xml:lang="it">Orologi, timer e allarmi.</p>
+    <p xml:lang="ko">시계, 타이머, 알람입니다.</p>
     <p xml:lang="nl">Klokken, timer en alarmen.</p>
     <p xml:lang="pl">Zegary, minutniki i alarmy.</p>
     <p xml:lang="sl">Ure, časomerilniki in alarmi.</p>
@@ -74,6 +77,7 @@
       <caption xml:lang="fr">Ère - Version mobile</caption>
       <caption xml:lang="gl">Era, versión móbil.</caption>
       <caption xml:lang="it">Era - versione mobile</caption>
+      <caption xml:lang="ko">Era - 모바일 버전</caption>
       <caption xml:lang="nl">Era - mobiele versie</caption>
       <caption xml:lang="pl">Era - wersja przenośna</caption>
       <caption xml:lang="sl">Era - mobilna različica</caption>

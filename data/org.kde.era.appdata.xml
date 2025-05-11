@@ -4,6 +4,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LGPL-3.0</project_license>
   <name>Era</name>
+  <name xml:lang="ar">الوقت</name>
   <name xml:lang="ca">Era</name>
   <name xml:lang="ca-valencia">Era</name>
   <name xml:lang="de">Era</name>
@@ -24,6 +25,7 @@
   <name xml:lang="x-test">xxEraxx</name>
   <name xml:lang="zh-TW">Era</name>
   <summary>Clock app</summary>
+  <summary xml:lang="ar">تطبيق ساعة</summary>
   <summary xml:lang="ca">Aplicació de rellotge</summary>
   <summary xml:lang="ca-valencia">Aplicació de rellotge</summary>
   <summary xml:lang="de">Uhr-Anwendung</summary>
@@ -45,6 +47,7 @@
   <summary xml:lang="zh-TW">時鐘應用程式</summary>
   <description>
     <p>Clocks, timer and alarms.</p>
+    <p xml:lang="ar">ساعات، مؤقتات، ومنبهات.</p>
     <p xml:lang="ca">Rellotges, temporitzadors i alarmes.</p>
     <p xml:lang="ca-valencia">Rellotges, temporitzadors i alarmes.</p>
     <p xml:lang="de">Uhren, Timer und Wecker.</p>
@@ -71,6 +74,7 @@
   <screenshots>
     <screenshot type="default">
       <caption>Era - mobile version</caption>
+      <caption xml:lang="ar">الوقت - نسخة الجوال</caption>
       <caption xml:lang="ca">Era - Versió mòbil</caption>
       <caption xml:lang="ca-valencia">Era - Versió mòbil</caption>
       <caption xml:lang="de">Era - mobile Version</caption>

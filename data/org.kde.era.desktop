@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Era
+Name[ar]=الوقت
 Name[ca]=Era
 Name[ca@valencia]=Era
 Name[de]=Era
@@ -20,6 +21,7 @@ Name[uk]=Ера
 Name[x-test]=xxEraxx
 Name[zh_TW]=Era
 Comment=Set alarms and timers, use a stopwatch, and manage world clocks
+Comment[ar]=تعين المنبهات والمؤقتات، واستخدم ساعة الإيقاف، وأدر الساعات العالمية
 Comment[ca]=Establiu alarmes i temporitzadors, useu un cronòmetre i gestioneu els rellotges mundials
 Comment[ca@valencia]=Establiu alarmes i temporitzadors, utilitzeu un cronòmetre i gestioneu els rellotges mundials
 Comment[de]=Wecker und Timer einstellen, eine Stoppuhr verwenden und Weltzeituhren verwalten
@@ -44,6 +46,7 @@ Exec=era
 Terminal=false
 Type=Application
 GenericName=Clock
+GenericName[ar]=الساعة
 GenericName[ca]=Rellotge
 GenericName[ca@valencia]=Rellotge
 GenericName[de]=Uhr
